@@ -21,7 +21,7 @@ To use the module, import it as you would regular python modules i.e
 import data_cleaning
 ```
 
-from data_cleaning import initial_eda_checks
 
 ```
-
+from data_cleaning import initial_eda_checks
+```
